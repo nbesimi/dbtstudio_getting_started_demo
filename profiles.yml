@@ -1,7 +1,7 @@
 config:
   send_anonymous_usage_stats: false
   partial_parse: true
-dbtstudio_getting_started:
+dbtstudio_getting_started_demo:
   target: dev
   outputs:
     dev:
