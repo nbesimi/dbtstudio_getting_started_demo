@@ -1,7 +1,7 @@
-name: dbtstudio_getting_started
+name: dbtstudio_getting_started_demo
 version: 1.0.0
 config-version: 2
-profile: dbtstudio_getting_started
+profile: dbtstudio_getting_started_demo
 model-paths:
   - models
 analysis-paths:
