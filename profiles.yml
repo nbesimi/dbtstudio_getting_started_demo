@@ -1,0 +1,12 @@
+config:
+  send_anonymous_usage_stats: false
+  partial_parse: true
+dbtstudio_getting_started:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: >-
+        /Users/nuhibesimi/rosetta-dbt-studio-projects/dbtstudio_getting_started/rosetta/university_sample.duckdb
+      schema: main
+      threads: 4
