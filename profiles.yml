@@ -7,6 +7,6 @@ dbtstudio_getting_started_demo:
     dev:
       type: duckdb
       path: >-
-        /Users/nuhibesimi/rosetta-dbt-studio-projects/dbtstudio_getting_started/rosetta/university_sample.duckdb
+        rosetta/university_sample.duckdb
       schema: main
       threads: 4
